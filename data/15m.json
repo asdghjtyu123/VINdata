@@ -1,0 +1,812 @@
+[
+    {
+        "wav": "0900020211231156-22.wav",
+        "duration": 7.0015,
+        "class": "[0M0NY]",
+        "text": "CÁC BÉ NÓ KHÔNG THỂ NGỒI YÊN HẾT LÀ TRONG NHỮNG CÁI MÔI TRƯỜNG CẦN THIẾT CÓ SỰ NGỒI YÊN VỚI DỤ NHƯ  LÀ PHẢI TẬP TRUNG NGỒI HỌC BÀI VÂN VÂN."
+    },
+    {
+        "wav": "0800020201009535-04.wav",
+        "duration": 3.187188,
+        "class": "[0F0NY]",
+        "text": "ĐÂY LÀ NỘI DUNG ĐƯỢC BÀN LUẬN TRONG CHƯƠNG TRÌNH PHÁP LUẬT VÀ ĐỜI SỐNG HÔM NAY"
+    },
+    {
+        "wav": "0011202205290S3325-01.wav",
+        "duration": 3.437125,
+        "class": "[0F0NY]",
+        "text": "TRƯỚC ĐÓ VÀO SÁNG NAY DƯỚI SỰ CHỦ TRÌ CỦA THỦ TƯỚNG CHÍNH PHỦ PHẠM MINH CHÍNH."
+    },
+    {
+        "wav": "0011202201220S3748-03.wav",
+        "duration": 10.176813,
+        "class": "[0F0NY]",
+        "text": "TỚI DỰ CÓ THỦ TƯỚNG CHÍNH PHỦ PHẠM MINH CHÍNH THƯỜNG TRỰC BAN BÍ THƯ VÕ VĂN THƯỜNG NGUYÊN TỔNG BÍ THƯ NÔNG ĐỨC MẠNH, NGUYÊN THƯỜNG TRỰC BAN BÍ THƯ TRẦN QUỐC VƯỢNG TRƯỞNG BAN TỔ CHỨC TRUNG ƯƠNG"
+    },
+    {
+        "wav": "05000202209286-c063.wav",
+        "duration": 6.979042,
+        "class": "[0F0NY]",
+        "text": "HỌ SẼ LÀ NHỮNG NGƯỜI GIẢI QUYẾT NHỮNG BỨC XÚC KHI MÀ PHỤ HUYNH CÓ HOẶC LÀ CÔ GIÁO CÓ LIÊN QUAN ĐẾN VIỆC HỌC CỦA CÁC CON"
+    },
+    {
+        "wav": "31112000002022090543(new)-28.wav",
+        "duration": 10.10025,
+        "class": "[0F0NM]",
+        "text": "CHỐNG BIẾN ĐỔI KHÍ HẬU VÀ THÚC ĐẨY SỬ DỤNG NĂNG LƯỢNG SẠCH LUÔN ĐƯỢC ĐẢNG VÀ NHÀ NƯỚC VIỆT NAM QUAN TÂM COI TRỌNG VÀ ĐÃ THAM GIA KÝ KẾT BAN HÀNH NHIỀU VĂN BẢN LIÊN QUAN ĐẾN NỘI DUNG NÀY TRONG NHIỀU NĂM QUA."
+    },
+    {
+        "wav": "0011202201200S1706-08.wav",
+        "duration": 10.619,
+        "class": "[0M1NO]",
+        "text": "TUY NHIÊN VỀ MẶT QUY HOẠCH ĐÔ THỊ THÌ NHỮNG NGƯỜI LÀM LUẬT QUY HOẠCH ĐÔ THỊ QUY ĐỊNH RẰNG MỘT THỜI KỲ QUY HOẠCH ĐÔ THỊ TỐI THIỂU 10 ĐẾN 25 NĂM, TÙY THEO CẤP ĐỘ QUY HOẠCH."
+    },
+    {
+        "wav": "0011202201240S1680-10.wav",
+        "duration": 4.540063,
+        "class": "[0F0NY]",
+        "text": "QUAN TÂM HỖ TRỢ GIÚP ĐỠ CÁC GIA ĐÌNH CÓ CÔNG VỚI CÁCH MẠNG, GIA ĐÌNH CHÍNH SÁCH, HỘ NGHÈO"
+    },
+    {
+        "wav": "1917100002020090774-07.wav",
+        "duration": 3.714187,
+        "class": "[0F0NY]",
+        "text": "NHIỀU NGƯỜI DÂN BẮT ĐẦU CHUYỂN SANG DÙNG GA DÙNG BẾP ĐIỆN"
+    },
+    {
+        "wav": "24110000002022083067-38.wav",
+        "duration": 8.618063,
+        "class": "[0M0NY]",
+        "text": "ỦNG HỘ MẠNH MẼ MỤC TIÊU ĐƯA THANH HÓA TRỞ THÀNH CỰC TĂNG TRƯỞNG MỚI CÙNG VỚI HÀ NỘI, HẢI PHÒNG, QUẢNG NINH TẠO THÀNH TỨ GIÁC PHÁT TRIỂN Ở PHÍA BẮC."
+    },
+    {
+        "wav": "13050002021100698-54.wav",
+        "duration": 7.137625,
+        "class": "[0F0NM]",
+        "text": "VÂNG QUY ĐỊNH NÀY CÓ THỂ NÓI LÀ PHÙ HỢP VỚI CHỦ TRƯƠNG THÍCH ỨNG AN TOÀN LINH HOẠT VỚI COVID MƯỜI CHÍN MÀ THỦ TƯỚNG CHÍNH PHỦ ĐÃ NHIỀU LẦN NÊU RA."
+    },
+    {
+        "wav": "02000202012010125-046.wav",
+        "duration": 6.928688,
+        "class": "[0F0NY]",
+        "text": "NHƯ CHIA SẺ CỦA CHỊ BÙI THANH VÂN NHÂN VIÊN TẠP VỤ KHÁCH SẠN Ở HÀ NỘI TẠM THỜI NGHỈ VIỆC VÌ DỊCH BỆNH CÔ-VÍT MƯỜI CHÍN"
+    },
+    {
+        "wav": "0011202202040S1620-50.wav",
+        "duration": 6.657063,
+        "class": "[8M1NO]",
+        "text": "ĐỒNG THỜI CŨNG LÀ CƠ SỞ PHÁP LÝ ĐỂ THỰC HIỆN KHI CHẾ ĐỘ CHÍNH SÁCH PHỤ CẤP THƯỜNG XUYÊN."
+    },
+    {
+        "wav": "300200020220831701-16.wav",
+        "duration": 8.279637,
+        "class": "[2M3NM]",
+        "text": "HÔM NAY ĐÃ CHIỀU RỒI CON ÔNG VẪN KHÔNG ĐẾN GỌI ĐIỆN NÓ BẢO CON BẬN QUÁ BẬN LẮM"
+    },
+    {
+        "wav": "68190000020220718234-68.wav",
+        "duration": 8.690792,
+        "class": "[0M0NM]",
+        "text": "ANH VƯ KỂ NĂM 2017 ANH NHẬN ĐƯỢC MỘT CON BÒ SINH SẢN TRỊ GIÁ HƠN 15 TRIỆU ĐỒNG TỪ CHƯƠNG TRÌNH NGÂN HÀNG BÒ GIỐNG  CỦA XÃ"
+    },
+    {
+        "wav": "2102000202012010271-21.wav",
+        "duration": 6.245563,
+        "class": "[2M0NM]",
+        "text": "NHƯNG VỚI  BỜ RI BU LA VỚI KÔ ĐI XÉC THÌ LÀM THẾ NÀO ĐÂY."
+    },
+    {
+        "wav": "02000202012010127-84.wav",
+        "duration": 6.851438,
+        "class": "[0F0NY]",
+        "text": "VÌ TRÊN THẾ GIỚI BẤT KỲ QUỐC GIA NÀO CHO PHÉP MÔ-BAI  MĂN-NY  DỀU TẠO RA TĂNG TRƯỞNG KINH TẾ TỚI 0,5 PHẦN TRĂM"
+    },
+    {
+        "wav": "0011202204300S3363-010.wav",
+        "duration": 7.368437,
+        "class": "[0F0NY]",
+        "text": "NHƯ MỘT CƠ DUYÊN TRONG TÌNH CẢM VỚI NHÂN DÂN VIỆT NAM, CÓ MỘT TÌNH YÊU ĐẶC BIỆT ĐỐI VỚI MỘT NGƯỜI VIỆT NAM."
+    },
+    {
+        "wav": "11260100002021111524-001.wav",
+        "duration": 23.323563,
+        "class": "[0F0NY]",
+        "text": "BÂY GIỜ THÌ LÊ ANH THÂN MẾN, KHỞI NGHIỆP THÌ THÌ KHÔNG DỄ, TRỤ ĐƯỢC SAU NĂM ĐẾN SÁU NĂM KHỞI NGHIỆP THÌ ĐƯỢC COI THÀNH CÔNG BƯỚC ĐẦU ,TỨC LÀ SẼ CÓ TIỀM NĂNG XÂY DỰNG THƯƠNG HIỆU ĐÓ LÀ KHẲNG ĐỊNH CỦA CÁC CHUYÊN GIA CŨNG LÀ CÁC DOANH NHÂN MÀ GIÀY DẶN THƯƠNG TRƯỜNG RỒI MÀ LÊ GIA LÀ MỘT TRONG SỐ NHỮNG DOANH NGHIỆP STARTUP DIỆN NÀY NẾU NHƯ MÀ TÍNH THEO SỐ NĂM SAU KHI KHỞI NGHIỆP."
+    },
+    {
+        "wav": "10154100002021090531-012.wav",
+        "duration": 5.373938,
+        "class": "[0M3NO]",
+        "text": "RẤT LÀ NHIỀU CÁI LĨNH VỰC MÀ ĐỂ CHÚNG TA THẤY LÀ NÓ CÓ MỘT CÁI TIỀM NĂNG VÀ CƠ HỘI"
+    },
+    {
+        "wav": "0000020220728199-118.wav",
+        "duration": 6.778,
+        "class": "[0M0NY]",
+        "text": "VỀ KẾ HOẠCH SẮP TỚI ĐỘI TUYỂN, LÀ SẼ THAM DỰ GIẢI QUỐC TẾ TẠI BÌNH DƯƠNG TỪ NGÀY MÙNG 5 THÁNG 8 ĐẾN NGÀY 11 THÁNG 8."
+    },
+    {
+        "wav": "6101000002022082680(new)-20.wav",
+        "duration": 4.279796,
+        "class": "[0F0NY]",
+        "text": "DOANH NGHIỆP KINH DOANH BẤT ĐỘNG SẢN CÓ THỂ ĐẦU TƯ VỐN VÀ LỢI NHUẬN THEO TỶ LỆ VỐN ĐẦU TƯ"
+    },
+    {
+        "wav": "0400020200910106-06.wav",
+        "duration": 2.612875,
+        "class": "[0F0NY]",
+        "text": "SỐ NGƯỜI ĐƯỢC ĐIỀU TRỊ KHỎI BỆNH CHIẾM TỶ LỆ RẤT CAO"
+    },
+    {
+        "wav": "34050002022070855-71.wav",
+        "duration": 1.83425,
+        "class": "[0M0NA]",
+        "text": "NẾU NHƯ GIÁM THỊ MÀ CHẶT CHẼ"
+    },
+    {
+        "wav": "0900020220610130-01.wav",
+        "duration": 2.686604,
+        "class": "[5F0JN]",
+        "text": "ĐỐ BỐ TÔM BIẾT NHÁ, NGÀY MAI LÀ NGÀY GÌ NÀO?"
+    },
+    {
+        "wav": "0011202204020S2839-03.wav",
+        "duration": 7.046271,
+        "class": "[0F0NY]",
+        "text": "THAM DỰ LỄ KÝ KẾT CÓ ÔNG TRỊNH XUÂN TRƯỜNG  CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI ÔNG LÊ QUANG MINH TỔNG GIÁM ĐỐC TRUYỀN HÌNH QUỐC HỘI VIỆT NAM"
+    },
+    {
+        "wav": "050002021121358-59.wav",
+        "duration": 7.43325,
+        "class": "[0M0NM]",
+        "text": "TẤT CẢ CÁC DOANH NGHIỆP DU LỊCH Ờ HAY LÀ CÁC CÁI CƠ SỞ LƯU TRÚ TẠI ĐIỂM ĐẾN CÁC CƠ SỞ TẠI ĐIỂM ĐẾN CÙNG CHUNG TAY LẠI ĐỂ TẠO RA NHỮNG DÒNG SẢN PHẨM DU LỊCH XANH"
+    },
+    {
+        "wav": "0011202202040S1620-31.wav",
+        "duration": 5.762625,
+        "class": "[8M1NO]",
+        "text": "RẤT MONG MUỐN VÀ RẤT HI VỌNG SẼ TẠO ĐƯỢC SỰ ĐỒNG THUẬN CAO CỦA ĐẠI BIỂU QUỐC HỘI."
+    },
+    {
+        "wav": "0200020201201019-08.wav",
+        "duration": 10.25925,
+        "class": "[0M0NY]",
+        "text": "CỤC PHÁT TRIỂN ĐÔ THỊ BỘ XÂY DỰNG CHO BIẾT TÍNH ĐẾN THÁNG 6 NĂM NAY CẢ NƯỚC CÓ 870 ĐÔ THỊ GÓP PHẦN CẢI THIỆN KINH TẾ XÃ HỘI ĐEM LẠI NHIỀU TIỆN ÍCH CHO NGƯỜI DÂN"
+    },
+    {
+        "wav": "0400020200911119-007.wav",
+        "duration": 5.636938,
+        "class": "[5F0NY]",
+        "text": "CHÚNG TÔI CHỌN CHỦ ĐỀ NÀY ĐỂ CÙNG BÀN LUẬN TRONG SỜ-TU-ĐI-Ô MỞ VỚI VỊ KHÁCH MỜI LÀ NHÀ VĂN TRANG HẠ."
+    },
+    {
+        "wav": "070002020112346-10.wav",
+        "duration": 4.749,
+        "class": "[2F0NC]",
+        "text": "TIỀN LÀM THÊM Ở SƠN NỮ CÓ THỂ GIÚP CÔ BÉ XOAY SỞ TIỀN ĂN VÀ TIỀN PHÒNG."
+    },
+    {
+        "wav": "0011202203260S3386-10.wav",
+        "duration": 4.332438,
+        "class": "[0M0NO]",
+        "text": "TUY NHIÊN KHI ĐƯA VÀO VIỆT NAM THÌ CHÚNG TA BIẾT RẰNG CHÚNG TA ĐÃ CÓ MỘT CÁI SỐ LƯỢNG NHẤT ĐỊNH"
+    },
+    {
+        "wav": "0500020201203259-64.wav",
+        "duration": 4.162187,
+        "class": "[0F0NM]",
+        "text": "DOANH NGHIỆP PHẢI TẠM NỘP THUẾ HÀNG QUÝ DỰA TRÊN KẾ HOẠCH SẢN XUẤT KINH DOANH CỦA CẢ NĂM."
+    },
+    {
+        "wav": "02000202012010159-32.wav",
+        "duration": 5.2175,
+        "class": "[2M0NM]",
+        "text": "ANH KÉO CÁI BỊ SANG MỘT BÊN TAY ANH SỜ THẤY NGƯỜI ĐỨA BÉ"
+    },
+    {
+        "wav": "02000202012010118-20.wav",
+        "duration": 3.733188,
+        "class": "[0M0NM]",
+        "text": "CÁC HỆ THỐNG HÀNH CHÍNH THÌ KHÔNG ĐƯỢC TÍCH HỢP VÀ CHIA SẺ DỮ LIỆU."
+    },
+    {
+        "wav": "07000202112134-09.wav",
+        "duration": 9.453938,
+        "class": "[2M3NY]",
+        "text": "THẰNG TUẤN ANH CÓ KỂ CHUYỆN VỀ THẰNG TRÀ ĐÁ CHUYỆN THẰNG TRÀ ĐÁ CÓ NHỎ EM TÊN LÀ BÉ BÔNG BẰNG TUỔI THẰNG TUẤN EM NHƯNG LẠI BỊ BỆNH TỰ KỶ"
+    },
+    {
+        "wav": "02000202012010247-107.wav",
+        "duration": 2.114875,
+        "class": "[2M0NM]",
+        "text": "BƯỚC CHÂN CỦA CHÚNG NGHE LẠO XẠO"
+    },
+    {
+        "wav": "49120000020220713254-37.wav",
+        "duration": 8.136042,
+        "class": "[0F0NY]",
+        "text": "THEO CÁC CHUYÊN GIA VIỆT NAM ĐANG CÓ NHỮNG TIỀN ĐỀ VỮNG CHẮC ĐỂ VƯỢT QUA NHỮNG BIẾN ĐỘNG TOÀN CẦU HIỆN NAY NHỜ TÌNH HÌNH CHÍNH TRỊ ỔN ĐỊNH, MỘT CHÍNH PHỦ NHẤT QUÁN TRONG HÀNH ĐỘNG"
+    },
+    {
+        "wav": "0011202201230S4117-15.wav",
+        "duration": 7.339146,
+        "class": "[0F0NY]",
+        "text": "ĐÂY ĐƯỢC COI LÀ ĐIỂM ĐẾN LÝ TƯỞNG DÀNH CHO QUÝ KHÁCH KHÁN GIẢ TẠI THÀNH PHỐ HỒ CHÍ MINH CŨNG NHƯ LÀ TẠI CÁC TỈNH THÀNH KHÁC TẠI NAM BỘ TRONG NGÀY CUỐI TUẦN NÀY"
+    },
+    {
+        "wav": "05000202210042-43.wav",
+        "duration": 9.368187,
+        "class": "[0F0NY]",
+        "text": "THƯA QUÝ VỊ VÀ CÁC BẠN, TẠI LIÊN HOAN PHIM ITALIA DIỄN RA TỪ NGÀY MÙNG 3 ĐẾN NGÀY MÙNG 9 THÁNG 10, 7 BỘ PHIM CỦA ĐIỆN ẢNH ITALIA ĐƯƠNG ĐẠI SẼ ĐƯỢC GIỚI THIỆU ĐẾN KHÁN GIẢ VIỆT NAM."
+    },
+    {
+        "wav": "25110000002022083067-51.wav",
+        "duration": 3.846562,
+        "class": "[0M3NM]",
+        "text": "TRONG ĐÓ KHẲNG ĐỊNH CẦN PHẢI BỔ SUNG LIÊN KẾT VÙNG, LIÊN KẾT NỘI VÙNG"
+    },
+    {
+        "wav": "11963100002021122722-26.wav",
+        "duration": 6.683313,
+        "class": "[9M0NM]",
+        "text": "NHƯNG THEO TÔI BIẾT HIỆN NAY THÌ RẤT LÀ NHIỀU CÁC NGÀNH CÁC CÁI VĂN BẢN HÀNH LANG PHÁP LÝ THÌ CHÚNG TA VẪN ĐANG ÁP DỤNG CHUNG NHƯ CÁC DOANH NGHIỆP THÔNG THƯỜNG KHÁC."
+    },
+    {
+        "wav": "111.wav",
+        "duration": 4.131292,
+        "class": "[0M3NO]",
+        "text": "RỦI RO LỚN NHẤT ĐỐI VỚI CÁC DOANH NGHIỆP THƯỜNG LÀ CÁI NỖI LO VỀ CÁI VIỆC HỘI TỤ"
+    },
+    {
+        "wav": "280800020221010586-24.wav",
+        "duration": 8.797125,
+        "class": "[0F0NY]",
+        "text": "TẠI HỘI NGHỊ BÀ THANG THỊ HẠNH VỤ TRƯỞNG VỤ TỔ CHỨC PHI CHÍNH PHỦ BỘ NỘI VỤ ĐÁNH GIÁ CÁC QUỸ XÃ HỘI ĐÃ CÓ NHỮNG ĐÓNG GÓP THIẾT THỰC CHO SỰ PHÁT TRIỂN CỦA ĐẤT NƯỚC TRÊN NHIỀU PHƯƠNG DIỆN."
+    },
+    {
+        "wav": "2100000002022082680(new)-56.wav",
+        "duration": 3.639938,
+        "class": "[0F0NY]",
+        "text": "NHÀ ĐẦU TƯ TRỞ NÊN DÈ DẶT VÀ CẨN TRỌNG HƠN VỚI CÁC QUYẾT ĐỊNH ĐẦU TƯ MỚI"
+    },
+    {
+        "wav": "02000202012010207-011.wav",
+        "duration": 12.055687,
+        "class": "[0F1NM]",
+        "text": "THỨ NHẤT LÀ CHÚNG TA BẢO VỆ ĐƯỢC ĐỐI TƯỢNG NGUY CƠ NÀY CÁI THỨ HAI NỮA LÀ CHÚNG TA ĐẠT ĐƯỢC CÁC CHỈ SỐ ĐẦU TIÊN CỦA BAN CHỈ ĐẠO QUỐC GIA LÀ KHI MÀ CHÚNG TA THÍCH ỨNG 70% NGƯỜI TỪ 50 TUỔI TRỞ LÊN ĐƯỢC TIÊM ĐỦ 2 MŨI VẮC-XIN"
+    },
+    {
+        "wav": "000002022090550(new) (4)-c083.wav",
+        "duration": 9.364812,
+        "class": "[0M0NM]",
+        "text": "CƠ QUAN QUẢN LÝ MẠNG LƯỚI NĂNG LƯỢNG CỦA ĐỨC CHO BIẾT NƯỚC NÀY CÓ THỂ ĐỐI PHÓ VỚI VIỆC BỊ NGA CẮT DÒNG KHÍ ĐỐT TỪ ĐƯỜNG ỐNG DÒNG CHẢY PHƯƠNG BẮC MỘT TRONG BA NGÀY TỪ NGÀY 31 THÁNG 8 ĐẾN NGÀY MÙNG 3 THÁNG 9 ĐỂ BẢO TRÌ"
+    },
+    {
+        "wav": "0500020220413100-132.wav",
+        "duration": 8.016021,
+        "class": "[0F0NM]",
+        "text": "TRƯỚC ĐÂY, CHÚNG TÔI LÀM DU LỊCH LÀ CHỈ QUAN TÂM TỚI VIỆC LÀ DỊCH VỤ NHƯ THẾ NÀO, ĐIỂM ĐẾN RA SAO ,VÉ MÁY BAY THẾ NÀO."
+    },
+    {
+        "wav": "02000202012010215-31.wav",
+        "duration": 12.071875,
+        "class": "[0M0NY]",
+        "text": "CÁC DOANH NGHIỆP CUNG CẤP DỊCH VỤ SẢN PHẨM SỐ CHO NGƯỜI DÙNG SỬ DỤNG PHƯƠNG THỨC XÁC THỰC KHÔNG MẬT KHẨU SẼ CÓ THỂ GIẢM DẦN TỈ LỆ CÁC CUỘC TẤN CÔNG MẠNG, ĐÁNH CẮP DANH TÍNH, TĂNG HIỆU QUẢ, TĂNG SỰ THUẬN TIỆN CHO NGƯỜI DÙNG."
+    },
+    {
+        "wav": "070002020112452-39.wav",
+        "duration": 8.037688,
+        "class": "[0M2NY]",
+        "text": "QUÁN NHỚ ĐƯỢC SỰ ỦNG HỘ HẾT LÒNG CỦA BỌN THÀNH MẪN THIỆN DŨNG TUỆ CHI NGỌC VÀ TẤT NHIÊN TIẾN VỚI ANH HUỲNH"
+    },
+    {
+        "wav": "000002022072920-03.wav",
+        "duration": 9.911125,
+        "class": "[0M0NM]",
+        "text": "NGÀY 16 THÁNG 3 THỦ TƯỚNG CHÍNH PHỦ PHẠM MINH CHÍNH ĐÃ KÝ CÔNG ĐIỆN SỐ 252 VỀ VIỆC ĐÔN ĐỐC TRIỂN KHAI QUYẾT LIỆT HIỆU QUẢ CHƯƠNG TRÌNH PHỤC HỒI VÀ PHÁT TRIỂN KINH TẾ XÃ HỘI."
+    },
+    {
+        "wav": "171710000020220811142(new)-04.wav",
+        "duration": 7.494313,
+        "class": "[0M0NM]",
+        "text": "NHƯNG NẾU NHƯ MÀ DỰ ÁN KHÔNG TÁI KHỞI ĐỘNG TRỞ LẠI ĐƯỢC CŨNG MONG MUỐN LÀ CÁC CẤP CÓ THẨM QUYỀN SỚM CÓ CÁI QUYẾT ĐỊNH VỀ DỰ ÁN"
+    },
+    {
+        "wav": "0000020220726204-35.wav",
+        "duration": 10.488313,
+        "class": "[0F0NM]",
+        "text": "SẢN PHẨM TRƯNG BÀY CHỦ YẾU LÀ NÔNG LÂM THỦY SẢN ĐỒ GIA DỤNG HÀNG THỦ CÔNG MỸ NGHỆ ĐỒ GỖ NỘI THẤT SẢN PHẨM LÀNG NGHỀ THỜI TRANG VẬT LIỆU XÂY DỰNG KIM KHÍ ĐIỆN MÁY..."
+    },
+    {
+        "wav": "02000202012010199-02.wav",
+        "duration": 6.260091,
+        "class": "[0M0NY]",
+        "text": "CŨNG TRONG SÁNG NAY TIỂU BAN ĐIỀU TRỊ CỦA BAN CHỈ ĐẠO QUỐC GIA PHÒNG CHỐNG CÔ-VÍT MƯỜI CHÍN THÔNG BÁO 234 CA TỬ VONG TẠI 13 TỈNH THÀNH PHỐ"
+    },
+    {
+        "wav": "47120000020220712262-57.wav",
+        "duration": 3.461812,
+        "class": "[0F0NY]",
+        "text": "CÁC NHÀ MÁY LỌC DẦU CỦA ẤN ĐỘ THÌ ĐÃ TĂNG LƯỢNG MUA DẦU THÔ CỦA NGA LÊN 50 LẦN"
+    },
+    {
+        "wav": "0800020200921540-022.wav",
+        "duration": 4.403688,
+        "class": "[0F0NM]",
+        "text": "CÒN CÁC VỤ GÂY HẬU QUẢ ÍT NGHIÊM TRỌNG THƯỜNG CHỈ BỊ XỬ LÝ HÀNH CHÍNH"
+    },
+    {
+        "wav": "quochoitv136-c056.wav",
+        "duration": 8.340125,
+        "class": "[2M0NY]",
+        "text": "﻿SAU ĐÓ, CHÚNG NÓ BÀN VỚI CÁI HƯƠNG RỒI RỦ DÊ HƯNG CÙNG THAM GIA NẾU THẤY CÂU CHUYỆN CÓ HƠI HƯỚNG CỦA MỘT CUỘC PHIÊU LƯU THÚ VỊ."
+    },
+    {
+        "wav": "58150000020220713258(new)-51.wav",
+        "duration": 4.345714,
+        "class": "[0F0NM]",
+        "text": "NGƯỜI CHIẾN THẮNG SẼ THAY THẾ ÔNG BO-NIT-DÔN-SON TRÊN CƯƠNG VỊ LÃNH ĐẠO ĐẢNG BẢO THỦ VÀ THỦ TƯỚNG ANH"
+    },
+    {
+        "wav": "0700020210112252-17.wav",
+        "duration": 4.996125,
+        "class": "[7M0NY]",
+        "text": "NGUYÊN NHÂN CHỦ YẾU DO HỆ THỐNG VĂN BẢN PHÁP LUẬT LIÊN QUAN CHƯA THEO KỊP VỚI SỰ PHÁT TRIỂN CỦA CÔNG NGHỆ."
+    },
+    {
+        "wav": "0011202205250S3272-02.wav",
+        "duration": 12.2015,
+        "class": "[0F0NY]",
+        "text": "TRONG ĐÓ CÓ 3 TRÊN 5 SẢN PHẨM ĐƯỢC LẤY MẪU PHÁT HIỆN CHẤT CẤM SILDENAFIL VÀ SIBUTRAMIN TRƯỚC ĐÓ CÁC SẢN PHẨM ĐÃ BỊ THU HỒI CỤC AN TOÀN THỰC PHẨM CẢNH BÁO VÀ ĐỀ NGHỊ NGƯỜI TIÊU DÙNG KHÔNG SỬ DỤNG CÁC SẢN PHẨM."
+    },
+    {
+        "wav": "0800020201026530-027.wav",
+        "duration": 3.56325,
+        "class": "[0F0NM]",
+        "text": "MỘT SỐ ĐỐI TƯỢNG ĐÃ GĂM HÀNG GÂY SỐT GIÁ HÒNG TRỤC LỢI BẤT CHÍNH."
+    },
+    {
+        "wav": "0800020211221419-31.wav",
+        "duration": 4.681134,
+        "class": "[5M0NY]",
+        "text": "TỈNH QUẢNG BÌNH HIỆN CÓ HAI MƯƠI TÁM TRƯỜNG HỢP TẢO HÔN VÀ MỘT TRƯỜNG HỢP HÔN NHÂN CẬN HUYẾT THUYẾT"
+    },
+    {
+        "wav": "0011202201270S2998-01.wav",
+        "duration": 9.912229,
+        "class": "[0F0NY]",
+        "text": "CHÚC QUÝ VỊ VÀ CÁC BẠN NHỮNG NGÀY CẬN TẾT THÔNG TIN NHÀ KHOA HỌC NGUYỄN VĂN HIỆU QUA ĐỜI ĐÃ ĐỂ LẠI NỖI BUỒN SÂU SẮC VỚI GIỚI KHOA HỌC NÓI RIÊNG VÀ CỬ TRI CẢ NƯỚC NÓI CHUNG."
+    },
+    {
+        "wav": "001120220403021216-16.wav",
+        "duration": 2.338798,
+        "class": "[0F0NM]",
+        "text": "DỰ ÁN LUẬT THI ĐUA KHEN THƯỞNG SỬA ĐỔI"
+    },
+    {
+        "wav": "02000202012010156-27.wav",
+        "duration": 2.66425,
+        "class": "[0M0NM]",
+        "text": "TIM CỦA PHÓNG VIÊN THẠCH HỒNG THƯỜNG TRÚ KHU VỰC ĐỒNG BẰNG SÔNG CỬU LONG"
+    },
+    {
+        "wav": "0000020220712260-134.wav",
+        "duration": 8.547208,
+        "class": "[0M0NY]",
+        "text": "CHƯA RÕ BÊN NÀO THẮNG THẾ XONG THEO NHIỀU CHUYÊN GIA ÔNG ELON MUSK SẼ PHẢI ĐỐI MẶT VỚI MỘT CUỘC CHIẾN PHÁP LÝ DAI DẲNG VỚI TWITTER MÀ CÓ THỂ KÉO DÀI NHIÊU THÁNG ĐỂ GIẢI QUYẾT"
+    },
+    {
+        "wav": "0011202201290S1651-07.wav",
+        "duration": 9.623125,
+        "class": "[0M0NM]",
+        "text": "THỨ HAI ĐẶC BIỆT NỮA LÀ TRONG ĐÓ LÀ CÁI DỰ THẢO QUYẾT ĐỊNH 20 GIAN NHƯNG MÀ MƯA TRANG LÀ GIAO CHẤT CỤ THỂ CHO CÁC BỘ NGÀNH ĐỂ CÁC BỘ MẢNG PHÙ HỢP CHẶT CHẼ VỚI NHAU"
+    },
+    {
+        "wav": "0000020220712260-124.wav",
+        "duration": 8.060833,
+        "class": "[0M0NY]",
+        "text": "ĐÂY LÀ HOẠT ĐỘNG BẢO TRÌ THƯỜNG NIÊN KÉO DÀI TỪ 10 ĐẾN 14 NGÀY VÀ TRONG THỜI GIAN ĐÓ NHA SẼ TẠM NGỪNG VIỆC CUNG CẤP KHI ĐỐT CHO CHÂU ÂU THÔNG QUA ĐƯỜNG ỐNG DÒNG CHẢY PHƯƠNG BẮC 1"
+    },
+    {
+        "wav": "0700020201203268-02.wav",
+        "duration": 4.833,
+        "class": "[0F0NY]",
+        "text": "LỰC LƯỢNG CHỨC NĂNG LÀO CAI KIỂM TRA VÀ TẠM GIỮ GẦN HAI NGHÌN HỘP HỘP KẸO DẺO TRẺ EM NHẬP LẬU"
+    },
+    {
+        "wav": "070002020112342-98.wav",
+        "duration": 1.826625,
+        "class": "[2M3NY]",
+        "text": "TÔI BIẾT ANH MUỐN NÓI GÌ RỒI"
+    },
+    {
+        "wav": "00120820222115-62.wav",
+        "duration": 8.155542,
+        "class": "[0M0NM]",
+        "text": "LÀM TỐT CÔNG TÁC PHÒNG CHÁY ĐỂ GIẢM CÔNG TÁC CHỮA CHÁY PHƯƠNG CHÂM LÀ TỪNG NHÀ AN TOÀN TỪNG XÓM TỔ DÂN PHỐ AN TOÀN TỪNG XÃ PHƯỜNG THỊ TRẤN AN TOÀN"
+    },
+    {
+        "wav": "02000202012010140-111.wav",
+        "duration": 5.916125,
+        "class": "[2M0NM]",
+        "text": "NẾU NHƯ CÓ MỘT ĐỒNG CHÍ NÀO ĐÓ KHÁM PHÁ ĐƯỢC MỘT CHỖ GIẤU TỐT HƠN CÁI HẦM DƯỚI MÓNG"
+    },
+    {
+        "wav": "02000202012010149-14.wav",
+        "duration": 5.576375,
+        "class": "[0F0NY]",
+        "text": "VIỆC PHÁT TRIỂN CÁC DỊCH VỤ ĐÔ THỊ THÔNG MINH LÀ SỰ ĐỔI MỚI PHƯƠNG THỨC LÀM VIỆC ĐỔI MỚI PHƯƠNG THỨC DỊCH VỤ."
+    },
+    {
+        "wav": "02000202012010188-17.wav",
+        "duration": 6.665,
+        "class": "[0F0NM]",
+        "text": "ĐẶC BIỆT THÀNH PHỐ SẼ NỖ LỰC TIẾP CẬN VÀ TỔ CHỨC VỤ VẮC XIN CHO ĐỘI NGŨ CÔNG NHÂN, NGƯỜI LAO ĐỘNG ĐỂ TẠO ĐIỀU KIỆN KHÔI PHỤC SẢN XUẤT SỚM."
+    },
+    {
+        "wav": "48120000020220712262-17.wav",
+        "duration": 6.917312,
+        "class": "[0F0NY]",
+        "text": "THỊ TRƯỜNG NHIỀU KHẢ NĂNG VẪN BIẾN ĐỘNG MẠNH TRONG THỜI GIAN TỚI DO CÁC YẾU TỐ KHÁCH QUAN, MẶC DÙ VẪN CÓ CÁC XU HƯỚNG TÍCH CỰC TRONG DÀI HẠN"
+    },
+    {
+        "wav": "07000202112134-46.wav",
+        "duration": 10.197188,
+        "class": "[2M3NY]",
+        "text": "VÌ TRÒ ĐIỆN TỬ RẤT SINH ĐỘNG MÀ ĐỨA TRẺ NÀO CŨNG THÍCH SINH ĐỘNG TẤT CẢ TRẺ EM ĐỀU SINH ĐỘNG CHỈ CÓ NGƯỜI LỚN TẺ NHẠT CHỨ KHÔNG CÓ TRẺ EM TẺ NHẠT"
+    },
+    {
+        "wav": "02000202012010140-43.wav",
+        "duration": 3.921687,
+        "class": "[2M0NM]",
+        "text": "RỒI HẮN RÚT BẢN DANH SÁCH TRONG TÚI RA BƯỚC ĐẾN BÊN MÁY PHÓNG THANH"
+    },
+    {
+        "wav": "47120000020220712262-46.wav",
+        "duration": 8.172729,
+        "class": "[0F0NY]",
+        "text": "ĐẾN THỜI ĐIỂM NÀY CÁC CHUYÊN GIA KINH TẾ, CÁC TỔ CHỨC QUỐC TẾ CŨNG PHẢI THỪA NHẬN RẰNG NỀN KINH TẾ NGA ĐÃ CHỐNG CHỌI VỚI CÁC LỆNH TRỪNG PHẠT TỐT HƠN DỰ KIẾN"
+    },
+    {
+        "wav": "173720000020220811143(new)-35.wav",
+        "duration": 6.869562,
+        "class": "[0F0NY]",
+        "text": "TỐI QUA ĐỘI TUYỂN U MƯỜI CHÍN VIỆT NAM ĐÃ CÓ CHIẾN THẮNG TỐI THIỂU MỘT-KHÔNG TRƯỚC U MƯỜI CHÍN THÁI LAN Ở LƯỢT TRẬN THỨ BA GIẢI U MƯỜI CHÍN QUỐC TẾ HAI NGHÌN KHÔNG TRĂM HAI MƯƠI HAI"
+    },
+    {
+        "wav": "213920000020220822108(new)-32.wav",
+        "duration": 12.595125,
+        "class": "[0M0NM]",
+        "text": "ĐỂ HOÀN THÀNH XUẤT SẮC NHIỆM VỤ ĐƯỢC ĐẢNG, NHÀ NƯỚC VÀ NHÂN DÂN GIAO PHÓ, TOÀN LỰC LƯỢNG CÔNG AN NHÂN DÂN KHÔNG NGỪNG NỖ LỰC, QUYẾT TÂM SÁNG TẠO, TRIỂN KHAI QUYẾT LIỆT HIỆU QUẢ NGHỊ QUYẾT ĐẠI HỘI LẦN THỨ 13 CỦA ĐẢNG VÀ NGHỊ QUYẾT SỐ 12."
+    },
+    {
+        "wav": "0011202204190S1116-05.wav",
+        "duration": 18.092,
+        "class": "[0M0NS]",
+        "text": "THÂN TÌNH GIỮA LÃNH ĐẠO VỚI LÃNH ĐẠO NHƯ VẬY THÌ LÀM CHO NHÂN DÂN HAI NƯỚC RẤT LÀ GẦN GŨI NHAU RẤT XEM NHAU NHƯ LÀ NHỮNG NGƯỜI ANH EM"
+    },
+    {
+        "wav": "0700020210112252-12.wav",
+        "duration": 5.762188,
+        "class": "[7F0NM]",
+        "text": "SAU HƠN HAI THÁNG TRIỂN KHAI TỔ CÔNG TÁC BA CHÍN CHÍN ĐÃ PHÁT HIỆN VÀ XỬ LÝ NHIỀU VỤ VIỆC VI PHẠM TRÊN THƯƠNG MẠI ĐIỆN TỬ."
+    },
+    {
+        "wav": "0400020200911119-066.wav",
+        "duration": 2.975875,
+        "class": "[5F0NY]",
+        "text": "TRONG CUỐN ĐÀN BÀ BA MƯƠI Ạ CHỊ CŨNG CÓ NHẮC VỀ CHỦ ĐỀ NÀY."
+    },
+    {
+        "wav": "050002021121059-33.wav",
+        "duration": 4.768417,
+        "class": "[9F0NY]",
+        "text": "HIỆN HÀNG TRĂM CA F0 NHẸ KHÔNG TRIỆU CHỨNG ĐÃ ĐƯỢC ĐIỀU TRỊ TẠI CÁC QUẬN HUYỆN."
+    },
+    {
+        "wav": "0011202205280S784-06.wav",
+        "duration": 3.1105,
+        "class": "[0M1NO]",
+        "text": "CÁC CHƯƠNG TRÌNH NÀY NÓ ĐẶT RA GIAI ĐOẠN LÀ HAI HAI MỘT HAI HAI NĂM."
+    },
+    {
+        "wav": "17050002021101295-25.wav",
+        "duration": 12.353563,
+        "class": "[0F3NM]",
+        "text": "VÂNG Ạ THƯA PHÓ GIÁO SƯ TRẦN ĐẮC PHU ÔNG CÓ ĐỀ CẬP ĐẾN VỚI SỰ LINH HOẠT CỦA ĐỊA PHƯƠNG NHẤT HIỆN NAY THÌ CÁI NĂNG LỰC TIẾP NHẬN CŨNG NHƯ CÁC ĐIỀU TRỊ CỦA CÁC ĐỊA PHƯƠNG LÀ KHÁC NHAU VÀ THẬM CHÍ LÀ NHIỀU ĐỊA PHƯƠNG NHẰM ĐỀ CẬP LÀ CÁC TỶ LỆ TIÊM CHỦNG VẮC XIN CÒN RẤT THẤP"
+    },
+    {
+        "wav": "9103000002022082684(new)-60.wav",
+        "duration": 7.984563,
+        "class": "[0F3NY]",
+        "text": "NẾU SỞ Y TẾ THÍ ĐIỂM Ở MỘT VÀI BỆNH VIỆN, VÀI ĐỊA PHƯƠNG THÌ SẼ TIẾT KIỆM HƠN, SẼ ĐẠT ĐƯỢC MỤC TIÊU CAO NHẤT LÀ PHỤC VỤ TỐT CHO NGƯỜI BỆNH"
+    },
+    {
+        "wav": "12264100002022011021-102.wav",
+        "duration": 2.006687,
+        "class": "[0F0NM]",
+        "text": "CÓ NỮ LÀM CHỦ DOANH NGHIỆP"
+    },
+    {
+        "wav": "0800020201208522-031.wav",
+        "duration": 3.629812,
+        "class": "[0F0NM]",
+        "text": "NGÀY MƯA THÌ MẶT ĐƯỜNG NHẦY NHỤA SỀN SỆT MỘT LỚP BỤI ĐEN."
+    },
+    {
+        "wav": "070002020112342-175.wav",
+        "duration": 5.71625,
+        "class": "[2M3NY]",
+        "text": "NẾU HẠNH CHI QUÁ NGẠI NGÙNG THÌ MÁ TÔI KHÔNG TẶNG MÀ LÀ GHI NỢ GIỐNG NHƯ TỪNG GHI NỢ TÂM AN"
+    },
+    {
+        "wav": "000002022083110-14.wav",
+        "duration": 5.195938,
+        "class": "[0F0NY]",
+        "text": "CÁC CHÍNH SÁCH HỖ TRỢ CỦA CHÍNH PHỦ ĐÃ ĐƯA RA TRONG THỜI GIAN QUA ĐƯỢC CỘNG ĐỒNG DOANH NGHIỆP KỲ VỌNG VÀ ĐÁNH GIÁ CAO."
+    },
+    {
+        "wav": "0011202204150S4022-08.wav",
+        "duration": 1.714063,
+        "class": "[0F0NY]",
+        "text": "Ở CẢ KHU VỰC TÂY NGUYÊN, NAM BỘ."
+    },
+    {
+        "wav": "8749100002021062737-05-2.wav",
+        "duration": 3.07925,
+        "class": "[0M0NM]",
+        "text": "NHƯ LÀ CÓ NHỮNG ĐỒ VẪN CÓ THỂ LÀ NHU CẦU VẪN CÓ"
+    },
+    {
+        "wav": "0200020201201060(new)-43.wav",
+        "duration": 5.656688,
+        "class": "[0F0NY]",
+        "text": "CÔNG NGHỆ NHÂN BẢN HAY NHÂN BẢN VÔ TÍNH TRÊN THỰC TẾ LÀ CÔNG NGHỆ ĐÃ ĐƯỢC CÁC NHÀ KHOA HỌC TRÊN THẾ GIỚI THỰC HIỆN"
+    },
+    {
+        "wav": "000002022071424-29.wav",
+        "duration": 6.3105,
+        "class": "[5F0NM]",
+        "text": "HIỆN VẪN CÒN NHIỀU NGƯỜI DÂN TỎ RA E NGẠI VIỆC TỐ CÁO THAM NHŨNG BỞI HỌ SỢ BỊ TRẢ THÙ, BỊ TRÙ DẬP."
+    },
+    {
+        "wav": "0011202201010S3100-03.wav",
+        "duration": 7.632313,
+        "class": "[0F0NY]",
+        "text": "SỰ KIỆN NÀY ĐÁNH DẤU LẦN ĐẦU TIÊN MỘT CÔNG TY DƯỢC PHẨM HÀN QUỐC PHÁT TRIỂN BỘ CÔNG CỤ CÓ THỂ PHÂN BIỆT ĐƯỢC BIẾN THỂ OMICRON VÀ DELTA CỦA VIRUS SARV-COV-2"
+    },
+    {
+        "wav": "02000202012010194-51.wav",
+        "duration": 6.769813,
+        "class": "[0F3NY]",
+        "text": "RIÊNG TẠI ANH DỊCH CÔ-VÍT MƯỜI CHÍN VẪN DIỄN BIẾN MỚI ĐÁNG LO NGẠI KHI NHẬN NHIỀU CA TỬ VONG VÌ CÔ-VÍT MƯỜI CHÍN TRONG NGÀY HÔM QUA"
+    },
+    {
+        "wav": "050002022041897-43.wav",
+        "duration": 5.655875,
+        "class": "[0M0NM]",
+        "text": "ĐỂ CHUẨN BỊ CHO CHIẾN DỊCH NÀY THÀNH PHỐ HỒ CHÍ MINH ĐÃ BỐ TRÍ 604 ĐỘI TIÊM ĐỂ THAM GIA CÔNG TÁC TIÊM CHỦNG."
+    },
+    {
+        "wav": "81260000020220719230(new)-c022.wav",
+        "duration": 5.204521,
+        "class": "[0F0NY]",
+        "text": "NGOÀI VIỆC HOÀN THIỆN CHÍNH SÁCH VỀ PHÂN KHÚC NÀY THÌ CẦN SỰ QUAN TÂM TẠO ĐIỀU KIỆN TỪ CHÍNH QUYỀN ĐỊA PHƯƠNG CÁC CẤP"
+    },
+    {
+        "wav": "46050002022072643-07.wav",
+        "duration": 2.01775,
+        "class": "[0M0NY]",
+        "text": "SỰ ĐẢO CHIỀU NÀY NÓ LÊN ĐIỀU GÌ THƯA ÔNG"
+    },
+    {
+        "wav": "0500020200916310-23.wav",
+        "duration": 7.732375,
+        "class": "[0F0NS]",
+        "text": "NHỮNG GIA ĐÌNH TRUYỀN THỐNG TRƯỚC NAY LÀ CÓ TÔN TI TRẬT TỰ ,RỒI LÀ CÓ NHỮNG CÁI GỌI LÀ CHĂM SÓC LẪN NHAU THÌ BÂY GIỜ HIỆN NAY LÀ LẠI LÀ Ở RIÊNG."
+    },
+    {
+        "wav": "02000202012010249-152.wav",
+        "duration": 2.29025,
+        "class": "[2M0NM]",
+        "text": "VÀ BUỔI CHIỀU LẠI ĐỔ XUỐNG TRẠI"
+    },
+    {
+        "wav": "05000202209287-68.wav",
+        "duration": 3.865813,
+        "class": "[0M0NM]",
+        "text": "THEO TÔI THÌ NÓ XUẤT PHÁT TỪ CÁI BẢN CHẤT CỦA HÔM-SỜ-TÂY"
+    },
+    {
+        "wav": "0800020220311398-49.wav",
+        "duration": 6.717437,
+        "class": "[0M0NY]",
+        "text": "NGƯỜI DÂN CÓ ĐƠN THƯ PHẢN ÁNH LÊN CÁC CẤP CHÍNH QUYỀN NHƯNG ĐẾN THỜI ĐIỂM HIỆN TẠI VI PHẠM VỀ QUẢN LÝ TRẬT TỰ ĐÔ THỊ TẠI ĐÂY VẪN CHƯA ĐƯỢC GIẢI QUYẾT."
+    },
+    {
+        "wav": "0011202205280S786-03.wav",
+        "duration": 7.374125,
+        "class": "[0F0NY]",
+        "text": "ĐÂY LÀ NHỮNG NỘI DUNG ĐƯỢC CÁC ĐẠI BIỂU QUỐC HỘI QUAN TÂM TRONG DỰ THẢO LUẬT KHÁM CHỮA BỆNH ĐƯỢC THẢO LUẬN TUẦN QUA TẠI KỲ HỌP THỨ BA QUỐC HỘI KHÓA MƯỜI LĂM."
+    },
+    {
+        "wav": "42118000002022090555(new)-20.wav",
+        "duration": 13.064125,
+        "class": "[0M0NO]",
+        "text": "KHÔNG DÙNG CHỦ NGHĨA XÃ HỘI, CHỦ NGHĨA CỘNG SẢN HAY CÁI GÌ NHƯNG MÀ RẤT DỄ HIỂU MÀ ĐÂY CHÍNH LÀ CÁI TƯ TƯỞNG CĂN CỐT NHẤT VÀ PHẢI GIỮ CHO ĐƯỢC CÁI TƯ TƯỞNG HỒ CHÍ MINH, PHÁT TRIỂN NÓ LÊN"
+    },
+    {
+        "wav": "10000020220707278(new)(2)-c050.wav",
+        "duration": 11.030313,
+        "class": "[0M0NY]",
+        "text": "TRƯỚC HẾT THÌ MỜI QUÝ VỊ VÀ CÁC BẠN CÙNG NGHE PHẢN ÁNH CỦA PHÓNG VIÊN TRẦN HIẾU THƯỜNG TRÚ KHU VỰC ĐỒNG BẰNG SÔNG CỬU LONG VỀ VIỆC CÀ MAU ĐÃ TRIỂN KHAI QUYẾT ĐỊNH 08 CỦA CHÍNH PHỦ TẠI ĐỊA PHƯƠNG"
+    },
+    {
+        "wav": "6136100002020120249-22.wav",
+        "duration": 10.689563,
+        "class": "[0M0NM]",
+        "text": "CHỨ CÒN NẾU CÁC BẠN TRÌNH BÀY KHÔNG TỐT MẶC DÙ Ý TƯỞNG CỦA CÁC BẠN RẤT TỐT NHƯNG MÀ CÁI NHÀ ĐẦU TƯ CÓ RẤT NHIỀU NHỮNG CÁC ẤY NHỮNG CÁI Ý TƯỞNG MÀ HỌ  MUỐN NGHE MUỐN ĐẦU TƯ MÀ KHÔNG TỐT THÌ CÓ THỂ BỎ QUA CƠ HỘI"
+    },
+    {
+        "wav": "0900020220610129-46.wav",
+        "duration": 2.963188,
+        "class": "[5F0NY]",
+        "text": "ỪM, THẾ THÌ CHA MẸ ĐÃ CHO CON ĐI KHÁM CHƯA HẢ BỐ TÔM?"
+    },
+    {
+        "wav": "0900020201103238-08.wav",
+        "duration": 5.8025,
+        "class": "[0F0NM]",
+        "text": "DẦN DẦN BÉ LAN CÓ CHỊ HOA BỊ LỆ THUỘC VÀO LOẠI THUỐC NÀY VÀ THƯỜNG BỊ VIÊM MŨI KÉO DÀI"
+    },
+    {
+        "wav": "34114000002022090547(new)-15.wav",
+        "duration": 8.957063,
+        "class": "[0M0ON]",
+        "text": "VÀ XỨNG ĐÁNG VỚI LẠI ĐẤT TỔ VUA HÙNG, NẮM CHẮC CÁI TÌNH HÌNH DIỄN BIẾN CỦA TRONG NƯỚC, CỦA KHU VỰC, CỦA THẾ GIỚI."
+    },
+    {
+        "wav": "41118000002022090552(new)-06.wav",
+        "duration": 11.52725,
+        "class": "[0M0NY]",
+        "text": "TỪ NĂM 2017 NGÀNH DỆT MAY ĐÃ THÀNH LẬP ỦY BAN PHÁT TRIỂN BỀN VỮNG VỀ MÔI TRƯỜNG VÀ LAO ĐỘNG PHỐI HỢP VỚI NHIỀU TỔ CHỨC TRIỂN KHAI THỰC HIỆN, SONG ĐỂ PHÁT TRIỂN BỀN VỮNG THỰC HIỆN MÔ HÌNH KINH TẾ TUẦN HOÀN NGÀNH DỆT MAY GẶP NHIỀU VẤN ĐỀ."
+    },
+    {
+        "wav": "203870000020220819111-48.wav",
+        "duration": 8.530625,
+        "class": "[0F0NY]",
+        "text": "SAU HƠN 2 NĂM RÈN LUYỆN , DO BIẾT ĐƯỢC THI ĐẤU NÊN SỰ BÙNG NỔ CỦA CÁC VẬN ĐỘNG VIÊN ĐÃ TẠO RA NHỮNG BẤT NGỜ CHO CÁC TRẬN ĐẤU VÀ MANG LẠI TÍN HIỆU KHỞI SẮC CHO ĐẤU KIẾM VIỆT NAM"
+    },
+    {
+        "wav": "070002020112344-13.wav",
+        "duration": 4.077375,
+        "class": "[2F0NY]",
+        "text": "THẾ LÀ CẢ BỌN ĐỀU NGỒI TRONG QUÁN TÁM CHUYỆN VỀ TRƯỜNG LỚP BẠN BÈ."
+    },
+    {
+        "wav": "0011202204060S4032-49.wav",
+        "duration": 4.255813,
+        "class": "[0M3NY]",
+        "text": "KHI MÀ CHÚNG TA CÓ KẾ HOẠCH LÀ CHÚNG TA ĐI LÀM VỀ HAY ĐƯA ĐÓN CON ĐI HỌC VỀ"
+    },
+    {
+        "wav": "12264100002022011021-88.wav",
+        "duration": 3.613812,
+        "class": "[0F0NM]",
+        "text": "NHƯ TÔI NÓI ĐẤY TỨC LÀ CÓ RẤT NHIỀU CÁC CÁI KHÓA ĐÀO TẠO CÓ RẤT NHIỀU CÁC CÁI BUỔI CHIA SẺ"
+    },
+    {
+        "wav": "73220000020220718238(new)-49.wav",
+        "duration": 4.076562,
+        "class": "[6M0NY]",
+        "text": "ĐÂY LÀ THẤT BẠI THỨ HAI LIÊN TIẾP CỦA THẦY TRÒ HUẤN LUYỆN VIÊN TRẦN MINH CHIẾN SAU BỐN TRẬN BẤT BẠI ĐẦU MÙA."
+    },
+    {
+        "wav": "0700020211221117-25.wav",
+        "duration": 4.959583,
+        "class": "[0F0NY]",
+        "text": "TẠI HIỆN TRƯỜNG LỰC LƯỢNG CHỨC NĂNG PHÁT HIỆN GẦN HAI NGHÌN BẢY TRĂM ĐƠN VỊ SẢN PHẨM THÀNH PHẨM"
+    },
+    {
+        "wav": "0011202208130S3150-04.wav",
+        "duration": 5.132417,
+        "class": "[0F0NM]",
+        "text": "GIỚI CHỨC NHẬT BẢN ĐÃ ĐƯA RA KHUYẾN CÁO CÁC BẬC PHỤ HUYNH NÊN TIÊM PHÒNG VẮC XIN NGỪA COVID MƯỜI CHÍN CHO TRẺ"
+    },
+    {
+        "wav": "0900020211222158-11.wav",
+        "duration": 5.007937,
+        "class": "[9F0NM]",
+        "text": "DỊCH CÔ-VÍT MƯỜI CHÍN VẪN DIỄN BIẾN PHỨC TẠP VÀ CHƯA THỂ ỔN ĐỊNH NGAY TRONG NGÀY MỘT NGÀY HAI"
+    },
+    {
+        "wav": "0900020220610129-47.wav",
+        "duration": 6.859271,
+        "class": "[5M0NY]",
+        "text": "VẪN CHƯA ĐÂU, TRONG GIA ĐÌNH, NGƯỜI THÌ BẢO ĐI KHÁM NGAY, NGƯỜI LẠI BẢO LÀ BÉ CÒN QUÁ NHỎ, ĐỂ THÊM THỜI GIAN NỮA RỒI HÃY TÍNH"
+    },
+    {
+        "wav": "02000202012010151-37.wav",
+        "duration": 8.155313,
+        "class": "[0F0NY]",
+        "text": "TUY NHIÊN NHỮNG HỢP TÁC XÃ CÓ DOANH THU ỔN ĐỊNH ĐẠT NĂNG SUẤT CAO THƯỜNG LÀ NHỮNG HỢP TÁC XÃ BIẾT ÁP DỤNG CHUYỂN GIAO TIẾN BỘ KHOA HỌC KỸ THUẬT VÀ CÔNG NGHỆ"
+    },
+    {
+        "wav": "quochoitv140-c019.wav",
+        "duration": 2.670688,
+        "class": "[0F0NY]",
+        "text": "ĐỂ TA CÓ THỂ NẮM ĐƯỢC MỘT CÁCH TỔNG THỂ"
+    },
+    {
+        "wav": "6136100002020120249-48.wav",
+        "duration": 6.49225,
+        "class": "[0M0NM]",
+        "text": "THẾ THÌ THẾ NÀO LÀ SÁNG TẠO TRONG CÁC LĨNH VỰC VỀ VỀ KHỞI NGHIỆP SỐ LÀ LÀ MỘT TRONG CÁC CÔNG CUỘC CHUYỂN ĐỔI SỐ"
+    },
+    {
+        "wav": "chuongtrinhthieunhi-c046.wav",
+        "duration": 6.196937,
+        "class": "[2M0NY]",
+        "text": "﻿ĐÓ LÀ CÂU ĐỐ KHÓ NHẤT, CŨNG LÀ CÂU ĐỐ CUỐI CÙNG TRƯỚC KHI CHUYỂN SANG TRÒ VUI KHÁC."
+    },
+    {
+        "wav": "0700020201216263-019.wav",
+        "duration": 8.0875,
+        "class": "[0F0NM]",
+        "text": "TẠI THỜI ĐIỂM KIỂM TRA BÊN TRONG THÙNG XE TẢI CÓ VẬN CHUYỂN BẢY MƯƠI CHÍN THÙNG HÀNG ĐÔNG LẠNH LÀ THỊT BÒ VÀ SƯỜN NON BÒ GHI NHÃN MÁC TỪ CAN NA ĐA"
+    },
+    {
+        "wav": "23110000002022083064-78.wav",
+        "duration": 3.176188,
+        "class": "[0F0NY]",
+        "text": "CẦN PHẢI HƯỚNG ĐẾN SỬ DỤNG NĂNG LƯỢNG HIỆU QUẢ VÀ THÔNG MINH HƠN."
+    },
+    {
+        "wav": "1917100002020090774-49.wav",
+        "duration": 9.134438,
+        "class": "[0M0NY]",
+        "text": "HIỆN NAY THÌ GIÁ THÀNH THAN CỦA BÊN EM BỊ THÌ LÀ ĐANG BÁN TỪ 8000 ĐẾN 9000 ĐỒNG TRÊN MỘT CÂN"
+    },
+    {
+        "wav": "25110000002022083067-26.wav",
+        "duration": 5.301146,
+        "class": "[0M0NO]",
+        "text": "RÀ SOÁT, CẬP NHẬT CÁC TRƯỜNG HỢP ĐÃ HOÀN THIỆN THỦ TỤC ĐẦU TƯ ĐỂ CÓ THỂ PHÂN BỔ NGAY"
+    },
+    {
+        "wav": "74220000020220718241(new)-003.wav",
+        "duration": 7.101687,
+        "class": "[0F0NY]",
+        "text": "NHỮNG NGƯỜI ĐÃ CÓ NHIỀU ĐÓNG GÓP HI SINH VÌ CÁCH MẠNG VÌ SỰ NGHIỆP ĐẤU TRANH GIẢI PHÓNG DÂN TỘC THỐNG NHẤT ĐẤT NƯỚC XÂY DỰNG VÀ BẢO VỆ TỔ QUỐC."
+    },
+    {
+        "wav": "07000202111241-97.wav",
+        "duration": 6.10875,
+        "class": "[2M3NY]",
+        "text": "NHƯNG CON KHỦNG LONG NÀO ĂN THỊT THÌ NÓ LẤY CÂY BÚT BI MỰC ĐỎ GẠCH DẤU CHÉO NGAY CHỖ CÁI MIỆNG"
+    },
+    {
+        "wav": "070002020112452-26.wav",
+        "duration": 3.727,
+        "class": "[0M2NY]",
+        "text": "BA ĐỨA TÔI HÁ MIỆNG RA THÀNH CƯỜI ĐẾN RUNG TAY LÁI LOẠNG CHOẠNG."
+    },
+    {
+        "wav": "02000202012010164-04.wav",
+        "duration": 8.595562,
+        "class": "[0F0NY]",
+        "text": "THEO THỨ TRƯỞNG BỘ NGOẠI GIAO NGUYỄN MINH VŨ THỜI GIAN TỚI VIỆT NAM SẼ ĐẨY MẠNH NGOẠI GIAO VẮC XIN VỚI BÀ MŨI TIẾP CẬN ĐỒNG THỜI TÌM KIẾM NHIỀU NGUỒN TIẾP CẬN THUỐC ĐẶC TRỊ CÔ-VÍT MƯỜI CHÍN"
+    },
+    {
+        "wav": "0011202204060S4032-53.wav",
+        "duration": 5.971438,
+        "class": "[0M3NY]",
+        "text": "QUÝ VỊ CÓ LỘ TRÌNH THƯỜNG XUYÊN ĐI QUA THÌ CŨNG ĐÃ NẮM ĐƯỢC CÁI TÌNH HÌNH NÀY TRÊN NÀY CHO NÊN CHÚNG TA CŨNG SẼ CÂN NHẮC CÁC KHUNG GIỜ DI CHUYỂN CHO PHÙ HỢP QUÝ VỊ NHÉ"
+    },
+    {
+        "wav": "23109000002022083064-07.wav",
+        "duration": 8.992437,
+        "class": "[0F0NY]",
+        "text": "TRÊN ĐỊA BÀN HÀ NỘI CÓ TRÊN 109 NGHÌN NGƯỜI KHUYẾT TẬT, TRONG ĐÓ KHOẢNG HƠN 30 NGHÌN NGƯỜI CÓ KHẢ NĂNG LAO ĐỘNG VÀ TRÊN 9600 NGƯỜI KHUYẾT TẬT CÓ VIỆC LÀM."
+    }
+]
