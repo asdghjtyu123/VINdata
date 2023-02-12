@@ -212,7 +212,7 @@ if __name__ == '__main__':
     avg_cer = sum(test_cer)/len(test_cer)
     avg_wer = sum(test_wer)/len(test_wer)
     print('avg_cer:',avg_cer*100,'avg_wer:',avg_wer*100)
-    # requestviettel(r'D:\15m\data\000002022072920-03.wav')
+    # requestviettel(r'D:\15m\data\000002022072920-03.wav'
     # foldeR_='D:\\15m\\data\\'
     
     # FPT(foldeR_, 'cuted_transcript')
