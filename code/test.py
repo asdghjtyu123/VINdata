@@ -174,23 +174,24 @@ def bum():
     a=[]
     data = json.load(f)
     for i in data:
-        if (i['wav'].split('wav')[0]+'txt' in os.listdir(r'D:\15m\tran')):
-            a.append(i['text'])
+        # if (i['wav'].split('wav')[0]+'txt' in os.listdir(r'D:\15m\tran')):      
+            #  ********Dung viettel thi bo cai nay 
+        a.append(i['text'])
         # print(i['text'])
     return a
 
-def readfile():
+def predfpt():
+    f = open('D:\\15m\\data\\15m.json','r',encoding='utf-8')
+    a=[]
     aa=[]
-    Cer=[]
-    wer=[]
+    data = json.load(f)
     audir=r'D:\15m\cuted_transcript'
-    for i in os.listdir(audir):
-        with open(audir+'\\'+i,'r',encoding='utf-8') as f:
+    for i in data:
+        with open(audir+'\\'+i['wav'].split('wav')[0]+'txt','r',encoding='utf-8') as f:
             a=f.readlines()
-            aa.append(a[-1])
-
-    # print(aa)
-def pred():
+            aa.append(a[-1].upper())
+    return aa
+def predviettel():
     f = open('D:\\15m\\data\\15m.json','r',encoding='utf-8')
     a=[]
     aa=[]
@@ -213,7 +214,7 @@ def pred():
     return aa
 if __name__ == '__main__':
     test_cer, test_wer = [], []
-    a=pred()
+    a=predfpt()
     b=bum()
     for j in range(len(a)):
                 # print(decoded_preds[j])
@@ -223,8 +224,9 @@ if __name__ == '__main__':
     avg_cer = sum(test_cer)/len(test_cer)
     avg_wer = sum(test_wer)/len(test_wer)
     print('avg_cer:',avg_cer*100,'avg_wer:',avg_wer*100)
-
+    # requestviettel(r'D:\15m\data\000002022072920-03.wav'
     foldeR_='D:\\15m\\data\\'
+    
     # FPT(foldeR_, 'cuted_transcript')
     for i in viettel(foldeR_):
         print(i)
