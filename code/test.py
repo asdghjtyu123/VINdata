@@ -174,7 +174,8 @@ def bum():
     a=[]
     data = json.load(f)
     for i in data:
-        a.append(i['text'])
+        if (i['wav'].split('wav')[0]+'txt' in os.listdir(r'D:\15m\tran')):
+            a.append(i['text'])
         # print(i['text'])
     return a
 
@@ -194,11 +195,21 @@ def pred():
     a=[]
     aa=[]
     data = json.load(f)
-    audir=r'D:\15m\cuted_transcript'
+    audir=r'D:\15m\tran'
     for i in data:
-        with open(audir+'\\'+i['wav'].split('wav')[0]+'txt','r',encoding='utf-8') as f:
-            a=f.readlines()
-            aa.append(a[-1].upper())
+        print(os.path.isfile(audir+'\\'+i['wav'].split('wav')[0]+'txt'),audir+'\\'+i['wav'].split('wav')[0]+'txt')
+        if (os.path.exists(audir+'\\'+i['wav'].split('wav')[0]+'txt')):
+            print(os.path.isfile(audir+'\\'+i['wav'].split('wav')[0]+'txt'),audir+'\\'+i['wav'].split('wav')[0]+'txt')
+            with open(audir+'\\'+i['wav'].split('wav')[0]+'txt','r',encoding='utf-8') as f:
+                a=f.readlines()
+
+                aa.append(a[0].upper())
+            # pass
+            
+        else:
+            # print(os.path.isfile(audir+'\\'+i['wav'].split('wav')[0]+'txt'),audir+'\\'+i['wav'].split('wav')[0]+'txt')
+            pass
+    print(aa)
     return aa
 if __name__ == '__main__':
     test_cer, test_wer = [], []
@@ -212,9 +223,8 @@ if __name__ == '__main__':
     avg_cer = sum(test_cer)/len(test_cer)
     avg_wer = sum(test_wer)/len(test_wer)
     print('avg_cer:',avg_cer*100,'avg_wer:',avg_wer*100)
-    # requestviettel(r'D:\15m\data\000002022072920-03.wav'
-    # foldeR_='D:\\15m\\data\\'
-    
+
+    foldeR_='D:\\15m\\data\\'
     # FPT(foldeR_, 'cuted_transcript')
-    # for i in viettel(foldeR_):
-    #     print(i)
+    for i in viettel(foldeR_):
+        print(i)
